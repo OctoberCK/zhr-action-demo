@@ -34,6 +34,9 @@ jobs:
           - username: ZJU_USERNAME6
             password: ZJU_PASSWORD6
             dingtalk_token: DINGTALK_TOKEN6
+          - username: ZJU_USERNAME7
+            password: ZJU_PASSWORD7
+            dingtalk_token: DINGTALK_TOKEN7
 
     steps:
       - name: 打卡
